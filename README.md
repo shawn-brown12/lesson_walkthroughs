@@ -1,0 +1,1 @@
+This will be my official readme for all concepts as I understand them going through the codeup curriculum. --
