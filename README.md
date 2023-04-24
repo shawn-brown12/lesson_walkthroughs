@@ -1,19 +1,17 @@
 # Lessons Revamped
 
----
-
-## Goals
+## Goal with this Repository
 
 This Repository was made in order to review and create comprehensive notes to better understand data science, as well as to have a reference for virtually everything I have learned since starting my data science journey. Currently there is a directory for each major topic talked about in Codeup, and I want to eventually add new topics as I learn more and grow my skillset and knowledge base.
 
 ---
 
-## Current Directories within Repo 
+## Current Working Directories
 
 |**Directory**|
 |:--------|
 |Environment Setup|
-|SQL|
+|[SQL](https://github.com/shawn-brown12/lesson_walkthroughs/tree/main/SQL)|
 |Python|
 |Statistics|
 |Tableau|
