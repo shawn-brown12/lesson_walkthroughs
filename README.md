@@ -26,10 +26,12 @@ This Repository was made in order to review and create comprehensive notes to be
 
 ---
 
-## Python Libraries
+## Languages and Libraries
 
-|**Library** |**Documentation Link**|
+|**Language/Library**|**Documentation Link**|
 |:--------|:-----------|
+|Python| https://docs.python.org/3/ |
+|MySQL| https://dev.mysql.com/doc/refman/8.0/en/ |
 |Pandas|https://pandas.pydata.org/pandas-docs/stable/index.html |
 |NumPy|https://numpy.org/doc/1.24/ |
 |Matplotlib|https://matplotlib.org/stable/ | 
