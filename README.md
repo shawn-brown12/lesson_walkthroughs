@@ -10,17 +10,17 @@ This Repository was made in order to review and create comprehensive notes to be
 
 |**Directory**|
 |:--------|
-|Environment Setup|
+|[Environment Setup](https://github.com/shawn-brown12/lesson_walkthroughs/tree/main/Environment-Setup)|
 |[SQL](https://github.com/shawn-brown12/lesson_walkthroughs/tree/main/SQL)|
-|Python|
-|Statistics|
-|Tableau|
-|Classification|
-|Regression|
-|Natural-Language-Processing|
-|Time-Series Analysis|
-|Clustering|
-|Anomaly Detection|
+|[Python](https://github.com/shawn-brown12/lesson_walkthroughs/tree/main/Python)|
+|[Statistics](https://github.com/shawn-brown12/lesson_walkthroughs/tree/main/Statistics)|
+|[Tableau](https://github.com/shawn-brown12/lesson_walkthroughs/tree/main/Tableau)|
+|[Classification](https://github.com/shawn-brown12/lesson_walkthroughs/tree/main/Classification)|
+|[Regression](https://github.com/shawn-brown12/lesson_walkthroughs/tree/main/Regression)|
+|[Natural-Language-Processing](https://github.com/shawn-brown12/lesson_walkthroughs/tree/main/Natural-Language-Processing)|
+|[Time-Series Analysis](https://github.com/shawn-brown12/lesson_walkthroughs/tree/main/Time-Series)|
+|[Clustering](https://github.com/shawn-brown12/lesson_walkthroughs/tree/main/Clustering)|
+|[Anomaly Detection](https://github.com/shawn-brown12/lesson_walkthroughs/tree/main/Anomaly-Detection)|
 
 ---
 
