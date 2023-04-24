@@ -10,13 +10,13 @@ This Repository was made in order to review and create comprehensive notes to be
 
 ## Current Directories within Repo 
 
-|**Directory**| **Documentation Link** (if applicable)|
-|:--------|:-----------|
-|Environment Setup| | 
-|SQL| https://dev.mysql.com/doc/refman/8.0/en/ |
-|Python| https://docs.python.org/3/ |
+|**Directory**|
+|:--------|
+|Environment Setup|
+|SQL|
+|Python|
 |Statistics|
-|Tableau| https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm |
+|Tableau|
 |Classification|
 |Regression|
 |Natural-Language-Processing|
