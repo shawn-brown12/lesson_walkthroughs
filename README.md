@@ -11,6 +11,7 @@ This Repository was made in order to review and create comprehensive notes to be
 ## Current Directories within Repo 
 
 |**Directory**| **Documentation Link** (if applicable)|
+|:--------|:-----------|
 |Environment Setup| | 
 |SQL| https://dev.mysql.com/doc/refman/8.0/en/ |
 |Python| https://docs.python.org/3/ |
@@ -28,6 +29,7 @@ This Repository was made in order to review and create comprehensive notes to be
 ## Python Libraries
 
 |**Library** |**Documentation Link**|
+|:--------|:-----------|
 |Pandas|https://pandas.pydata.org/pandas-docs/stable/index.html |
 |NumPy|https://numpy.org/doc/1.24/ |
 |Matplotlib|https://matplotlib.org/stable/ | 
