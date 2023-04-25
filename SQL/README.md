@@ -6,7 +6,8 @@ This directory in my repository is for my notes for MySQL, and my goal here is t
 
 ## This is a guide for each file within this directory:
 
-|**Filename**|**Link**|
-|:---------|:---------|
-|databases_and_tables| [click here](https://github.com/shawn-brown12/lesson_walkthroughs/blob/main/SQL/databases_and_tables.ipynb)|
-|
+|**Filename (and link)**|
+|:---------|
+|[databases_and_tables](https://github.com/shawn-brown12/lesson_walkthroughs/blob/main/SQL/databases_and_tables.ipynb)|
+|[basic_statements+and_clauses]()|
+|[functions_and_groupby]()|
