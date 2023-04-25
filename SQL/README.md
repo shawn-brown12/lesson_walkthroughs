@@ -11,6 +11,6 @@ This directory in my repository is for my notes for MySQL, and my goal here is t
 |[databases_and_tables](https://github.com/shawn-brown12/lesson_walkthroughs/blob/main/SQL/databases_and_tables.ipynb)|
 |[basic_statements+and_clauses](https://github.com/shawn-brown12/lesson_walkthroughs/blob/main/SQL/basic_statements_and_clauses.ipynb)|
 |[functions_and_groupby](https://github.com/shawn-brown12/lesson_walkthroughs/blob/main/SQL/functions_and_groupby.ipynb)|
-|[relationships]()|
-|[case_statements_and_temp_tables]()|
-|[more_exercises]()|
+|[relationships](https://github.com/shawn-brown12/lesson_walkthroughs/blob/main/SQL/relationships.ipynb)|
+|[case_statements_and_temp_tables](https://github.com/shawn-brown12/lesson_walkthroughs/blob/main/SQL/case_statements_and_temp_tables.ipynb)|
+|[more_exercises](https://github.com/shawn-brown12/lesson_walkthroughs/blob/main/SQL/more_exercises.ipynb)|
