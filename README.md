@@ -1,4 +1,4 @@
-# Lessons Revamped
+# Lesson Notes
 
 ## Goal with this Repository
 
