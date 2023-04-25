@@ -8,4 +8,5 @@ This directory in my repository is for my notes for MySQL, and my goal here is t
 
 |**Filename**|**Link**|
 |:---------|:---------|
-|databases_and_tables| 
+|databases_and_tables| [click here](https://github.com/shawn-brown12/lesson_walkthroughs/blob/main/SQL/databases_and_tables.ipynb)|
+|
