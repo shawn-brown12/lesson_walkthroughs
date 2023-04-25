@@ -4,7 +4,7 @@ This directory in my repository is for my notes for MySQL, and my goal here is t
 
 ---
 
-## This is a guide for each file within this directory:
+## This is a guide for each file within this directory
 
 |**Filename (and link)**|
 |:---------|
